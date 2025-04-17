@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Map Project", "Map Project.vcxproj", "{C980DA13-01BB-46EA-8FA1-947CBC5DA200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Debug|x64.ActiveCfg = Debug|x64
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Debug|x64.Build.0 = Debug|x64
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Debug|x86.ActiveCfg = Debug|Win32
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Debug|x86.Build.0 = Debug|Win32
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Release|x64.ActiveCfg = Release|x64
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Release|x64.Build.0 = Release|x64
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Release|x86.ActiveCfg = Release|Win32
+		{C980DA13-01BB-46EA-8FA1-947CBC5DA200}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EDAFD7-DD6B-4CB9-BB60-4F5C6AB06F32}
+	EndGlobalSection
+EndGlobal
